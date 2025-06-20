@@ -1,4 +1,5 @@
 {
+  "homepage" : "https://GRAF505.github.io/educational-practice",
   "name": "practice",
   "version": "1.0.0",
   "description": "",
@@ -7,6 +8,7 @@
     "start": "concurrently \"npm run dev-backend\" \"npm run dev-frontend\"",
     "dev-backend": "npm --prefix backend run dev",
     "dev-frontend": "npm --prefix frontend/my-app run dev"
+    
   },
   "keywords": [],
   "author": "",
